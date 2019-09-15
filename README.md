@@ -2,6 +2,8 @@
 
 The purpose of this module is to easily add [Micronaut](https://micronaut.io/) support to your **Maven Java projects**. 
 
+You can find a **complete example** of how ot use this parent pom in: [micronaut-java-parent-example](https://github.com/autentia/micronaut-java-parent-example)
+
 If you want to add Micronaut support in your Maven Java project, you need just to set this module as the parent of your project `pom.xml`.
 
 ```xml
