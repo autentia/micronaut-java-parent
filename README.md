@@ -15,7 +15,7 @@ If you want to add Micronaut support in your Maven Java project, you need just t
     <parent>
         <groupId>com.autentia</groupId>
         <artifactId>micronaut-java-parent</artifactId>
-        <version>1.2.1</version>
+        <version>2.0.0</version>
     </parent>
 
     <groupId>com.example</groupId>
